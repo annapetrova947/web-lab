@@ -1,0 +1,14 @@
+.main{
+    display: block;
+}
+.excercise{
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.excercise:hover{
+    opacity: 0.7;
+}
